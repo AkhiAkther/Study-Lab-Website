@@ -4,6 +4,9 @@
 .cover-2{
     height: 680px;
 }
+.dark{
+    filter:brightness(60%)
+}
 .custom-font{
     font-size: 50px;
 }
